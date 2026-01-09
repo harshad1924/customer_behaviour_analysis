@@ -47,4 +47,5 @@ Create interactive dashboards to analyze customer behavior and trends
 
 # Screenshot of Dashboard
 
+![Power Bi Dashboard](power_bi_dashboard.png)
 
