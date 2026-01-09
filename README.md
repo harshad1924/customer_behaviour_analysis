@@ -1,6 +1,7 @@
-# customer_behaviour_analysis
+# customer behaviour analysis
 Customer Behaviour Analysis is a data analysis project that explores customer purchasing patterns using Python, Pandas,PowerBI and PostgreSQL. The project focuses on understanding shopping habits, spending trends, and key factors influencing customer decisions through data cleaning, analysis, and insights generation.
-🎯 Objectives
+
+# 🎯 Objectives
 
 Understand customer purchasing behavior
 
@@ -12,7 +13,7 @@ Store and manage data using PostgreSQL
 
 Perform data-driven analysis using Python and SQL
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Python
 
@@ -26,7 +27,7 @@ Jupyter Notebook
 
 PowerBI
 
-⚙️ Workflow
+# ⚙️ Workflow
 
 Load customer data using Pandas
 
@@ -46,3 +47,4 @@ Create interactive dashboards to analyze customer behavior and trends
 
 # Screenshot of Dashboard
 
+![PowerBi Dashboard](PowerBI Dashboard.png)
